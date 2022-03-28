@@ -1,8 +1,3 @@
-# -*- coding: utf-8 -*-
-# @Time    : 2018/7/30 下午4:14
-# @Author  : WangJuan
-# @File    : Test_Basic.py
-
 import allure
 
 from Params.params import Basic

@@ -1,8 +1,3 @@
-# -*- coding: utf-8 -*-
-# @Time    : 2018/7/30 下午4:14
-# @Author  : WangJuan
-# @File    : Test_Collections.py
-
 import allure
 from Params.params import Collections
 from Conf.Config import Config

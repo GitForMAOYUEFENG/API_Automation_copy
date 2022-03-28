@@ -1,8 +1,3 @@
-# -*- coding: utf-8 -*-
-# @Time    : 2018/8/1 下午2:37
-# @Author  : WangJuan
-# @File    : conftest.py
-
 """
 
 # @allure.feature # 用于定义被测试的功能，被测产品的需求点
